@@ -1,2 +1,5 @@
-#!/bin/bash
+!#!/bin/bash
 cchmod u+x,g+x,o+r hello
+
+
+
