@@ -1,2 +1,2 @@
 #!/bin/bash
-chmond u+x,g+x,o+r hello
+cchmod u+x,g+x,o+r hello
